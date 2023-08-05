@@ -4,6 +4,6 @@ SDL_image 2.0 wrapper
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/lispgames/cl-sdl2-image.git |
-| commit  | 9c05c80                                            |
+| commit  | c7132bc                                            |
 | systems | sdl2-image                                         |
 |---------+----------------------------------------------------|
